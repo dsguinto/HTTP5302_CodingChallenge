@@ -24,3 +24,9 @@ http://sandbox.bittsdevelopment.com/code1/employeepics/{id}.jpg
 
 ## Challenges
 - Learning how to call API request using JavaScript, as I only have familiarity with doing so with PHP
+
+
+## Resources
+[What does enctype='multipart/form-data' mean?](https://stackoverflow.com/questions/4526273/what-does-enctype-multipart-form-data-mean)
+
+[CORS Tutorial: A Guide to Cross-Origin Resource Sharing](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/)
